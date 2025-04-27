@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Thapoojaa/conditional-rendering.git/static/css/main.12f52dfc.css",
+    "main.js": "/Thapoojaa/conditional-rendering.git/static/js/main.fe117a03.js",
+    "static/js/453.69f3745b.chunk.js": "/Thapoojaa/conditional-rendering.git/static/js/453.69f3745b.chunk.js",
+    "index.html": "/Thapoojaa/conditional-rendering.git/index.html",
+    "main.12f52dfc.css.map": "/Thapoojaa/conditional-rendering.git/static/css/main.12f52dfc.css.map",
+    "main.fe117a03.js.map": "/Thapoojaa/conditional-rendering.git/static/js/main.fe117a03.js.map",
+    "453.69f3745b.chunk.js.map": "/Thapoojaa/conditional-rendering.git/static/js/453.69f3745b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12f52dfc.css",
+    "static/js/main.fe117a03.js"
+  ]
+}
